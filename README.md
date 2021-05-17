@@ -39,7 +39,7 @@ The following images show the web application's appearance and functionality:
 
 
 * The URL of the functional, deployed application.
-https://github.com/sgc1992/Note-Taker
+* https://github.com/sgc1992/Note-Taker
 
 * The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
 
